@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5",
+  "version": "1.2.6",
   "download_url": "https://github.com/ImNotBADBOY17/Azkar/releases/latest/download/Azkar.apk",
-  "release_notes": "🚀 New Update (1.2.5)\n\n- 🕌 Live prayer countdown timer with next-prayer highlight\n- 🔔 Notifications now appear on the lock screen\n- 🔔 Adhan alerts now wake your screen\n- 🔁 Notifications now recur daily automatically\n- ⚡ Faster app startup & smoother scrolling\n- 🐛 Multiple bug fixes and stability improvements"
+  "release_notes": "🚀 New Update (1.2.6)\n\n- ⚡ Impeller engine enabled for 60fps+ animations\n- 🕌 Location detection accuracy improved\n- ⚡ Aggressive memory optimizations for lower-end devices\n- 🔁 Timezone resilient streak calculation\n- 🐛 Offloaded astronomical calculations to save battery"
 }
