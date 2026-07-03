@@ -1,5 +1,5 @@
 {
-  "version": "1.2.7",
+  "version": "1.2.8",
   "download_url": "https://github.com/ImNotBADBOY17/Azkar/releases/latest/download/Azkar.apk",
-  "release_notes": "🚀 New Update (1.2.7)\n\n- ⚡ Zero-stutter 60fps scrolling performance\n- 📖 Perfected Azkar DB with full authentic texts and Fawaid/Rewards\n- ✨ Added missing Aafini, Ushhiduk, and Alimal Ghaybi Adhkar\n- 🔄 Restructured Morning/Evening lists for better reading flow\n- 🎨 Fixed layout formatting for English and Arabic modes"
+  "release_notes": "🚀 New Update (1.2.8)\n\n- 🌅 Intelligent Fajr-Based Day Reset: Your daily streaks now reset at Fajr time instead of midnight, aligning perfectly with the Islamic day.\n- 🔔 Comprehensive Notification Revival: Fixed silent failures and permission issues for Azkar and Adhan reminders.\n- ✉️ In-App Feedback: You can now easily send feedback to the developer directly from the Settings screen.\n- 🛡️ Preserved Streaks: Upgraded the data migration system to protect your existing progress during this update."
 }
