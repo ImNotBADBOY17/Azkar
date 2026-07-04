@@ -1,5 +1,6 @@
 {
-  "version": "1.2.8",
+  "version": "1.2.9",
+  "buildNumber": "18",
   "download_url": "https://github.com/ImNotBADBOY17/Azkar/releases/latest/download/Azkar.apk",
-  "release_notes": "🚀 New Update (1.2.8)\n\n- 🌅 Intelligent Fajr-Based Day Reset: Your daily streaks now reset at Fajr time instead of midnight, aligning perfectly with the Islamic day.\n- 🔔 Comprehensive Notification Revival: Fixed silent failures and permission issues for Azkar and Adhan reminders.\n- ✉️ In-App Feedback: You can now easily send feedback to the developer directly from the Settings screen.\n- 🛡️ Preserved Streaks: Upgraded the data migration system to protect your existing progress during this update."
+  "release_notes": "🚀 Major Architecture Update (1.2.9)\n\n- ☁️ Cloud Streak Sync: Securely sync your daily progress and streaks across all your devices using Google Sign-In.\n- 🚀 Zero-Jank Engine: Swiping through Azkar is now buttery smooth at 60FPS even on older devices.\n- 🔔 Notification Defcon: Upgraded background services to guarantee Azkar and Adhan reminders trigger reliably.\n- ✨ Global Smoothness: Added fade transitions to all screens to eliminate heavy animation drops."
 }
