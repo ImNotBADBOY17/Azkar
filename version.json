@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "buildNumber": "21",
+  "version": "1.3.2",
+  "buildNumber": "22",
   "download_url": "https://github.com/ImNotBADBOY17/Azkar/releases/latest/download/Azkar.apk",
-  "release_notes": "🚀 Instant Launch & Stability Patch (1.3.1)\n\n- ⚡ Lightning Fast Startup: Slashed the artificial splash screen wait time by 60%, getting you into your Azkar almost instantly.\n- 🛠️ Emulator/Android 13+ Fix: Fixed a critical bug where the app would hang on the native white splash screen due to blocking network and permission requests on startup.\n- 🔔 Notification Engine Polish: Minor under-the-hood tweaks to the new V1.3.0 exact alarm system."
+  "release_notes": "🚀 Instant Launch & Stability Patch (1.3.2)\n\n- ⚡ Lightning Fast Startup: Slashed the artificial splash screen wait time by 60%.\n- 🛠️ Emulator/Android 13+ Fix: Fixed a critical bug where the app would hang on the native white splash screen on launch.\n- 🔔 Notification Engine: Rebuilt background services for exact Adhan triggers."
 }
