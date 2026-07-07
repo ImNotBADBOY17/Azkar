@@ -1,6 +1,6 @@
 {
-  "version": "1.2.9",
-  "buildNumber": "19",
+  "version": "1.3.0",
+  "buildNumber": "20",
   "download_url": "https://github.com/ImNotBADBOY17/Azkar/releases/latest/download/Azkar.apk",
-  "release_notes": "🚀 Major Architecture Update (1.2.9)\n\n- ☁️ Cloud Streak Sync: Securely sync your daily progress and streaks across all your devices using Google Sign-In.\n- 🚀 Zero-Jank Engine: Swiping through Azkar is now buttery smooth at 60FPS even on older devices.\n- 🔔 Notification Defcon: Upgraded background services to guarantee Azkar and Adhan reminders trigger reliably.\n- ✨ Global Smoothness: Added fade transitions to all screens to eliminate heavy animation drops."
+  "release_notes": "🔔 Perfect Stability (1.3.0)\n\n- 🔔 Notification Rebuild: Completely rebuilt the notification engine from scratch. Notifications are now one-shot exact alarms that fire at the correct prayer time every single day.\n- ⚡ Zero-Stutter Engine: Eliminated all setState-based stuttering in the Azkar reader, Tasbeeh counter, and home screen. Every tap is now instant.\n- 🛡️ Android Hardening: Added USE_EXACT_ALARM, FOREGROUND_SERVICE, and strict ProGuard shields to guarantee notifications survive R8 minification.\n- ☁️ Cloud Sync Fix: Fixed race condition where daily reset could overwrite valid cloud data. Cross-device completion now merges correctly.\n- 🕌 Notification Icon: Replaced grey square icon with a proper monochrome mosque silhouette."
 }
