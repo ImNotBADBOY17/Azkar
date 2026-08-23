@@ -1,6 +1,6 @@
 {
-  "version": "1.3.5",
-  "buildNumber": "25",
+  "version": "1.3.6",
+  "buildNumber": "26",
   "download_url": "https://github.com/ImNotBADBOY17/Azkar/releases/latest/download/Azkar.apk",
-  "release_notes": "🚀 Azkar 1.3.5 Is Here!\n\n- 🔄 Core Sync Fix: Resolves checkmark syncing issues.\n- 📱 New 2x2 Square Widget: Rebuilt layout dimensions for better OriginOS/Funtouch compatibility."
+  "release_notes": "🚀 Azkar 1.3.6\n\n- 📱 Widget Fix: Rebuilt 2x2 widget layout for proper sizing and label display on MagicOS, OriginOS, and EMUI launchers.\n- 🔄 Core Sync Fix: Resolves checkmark syncing issues."
 }
