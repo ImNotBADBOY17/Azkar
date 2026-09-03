@@ -1,6 +1,6 @@
 {
-  "version": "1.3.6",
-  "buildNumber": "26",
+  "version": "1.4.0",
+  "buildNumber": "27",
   "download_url": "https://github.com/ImNotBADBOY17/Azkar/releases/latest/download/Azkar.apk",
-  "release_notes": "🚀 Azkar 1.3.6\n\n- 📱 Widget Fix: Rebuilt 2x2 widget layout for proper sizing and label display on MagicOS, OriginOS, and EMUI launchers.\n- 🔄 Core Sync Fix: Resolves checkmark syncing issues."
+  "release_notes": "🚀 Azkar 1.4.0 — Stability Release\n\n- 🐛 Fixed first-launch crash\n- 🛡️ Added global error protection — app never crashes on startup\n- 🧹 Removed broken notification system for cleaner, faster performance\n- ⚡ Faster startup — removed unnecessary background services\n- 🔧 Fixed crash when pressing back quickly in Adhkar session\n- 📊 Fixed analytics screen crash on some themes"
 }
